@@ -255,7 +255,7 @@ When you are done, the `pom.xml` file should look like:
     <repositories>
         <repository>
             <id>jcenter</id>
-            <url>http://jcenter.bintray.com</url>
+            <url>https://jcenter.bintray.com</url>
         </repository>
     </repositories>
 </project>
